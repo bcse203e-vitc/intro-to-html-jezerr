@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <span style="font-family: Arial;"><u><b>The Great Gatsby</b></u> is a <i>fascinating</i> book by <u><b>F. Scott Fitzgerald</b></u>.</span>
+</body>
+</html>
